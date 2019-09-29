@@ -1,4 +1,4 @@
-#DiscordBotTutorial
+# DiscordTutorialBot
 tutorial de como fazer bot no discord
-discord.js
+Utilizando Discord.js
 # Feito Por Gustavo33
